@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e626f151-326f-475a-82a7-bbddea8e4cf0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/Bedwars-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Bedwars$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Bedwars$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Bedwars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Bedwars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/BungeeCommunication/Arena.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/BungeeCommunication/Arena.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/BungeeCommunication/BungeeSendEconomy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/BungeeCommunication/BungeeSendEconomy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/BungeeCommunication/BungeeSendLobbyArenaInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/BungeeCommunication/BungeeSendLobbyArenaInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BackToLobbyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BackToLobbyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BedDestroyListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BedDestroyListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BedDestroyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BedDestroyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BlockProtectionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/BlockProtectionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/ClickOnVillagerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/ClickOnVillagerListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/BedSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/BedSetup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/MainMenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/MainMenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/MainMenuLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/MainMenuLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/SecondaryGUIListeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/SecondaryGUIListeners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/SecondaryShopGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/Helpers/SecondaryShopGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/MainGUIListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/MainGUIListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/TeamSelectionGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/GUIs/TeamSelectionGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/LastTeamStandingListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/LastTeamStandingListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/LastTeamStandingListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/LastTeamStandingListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerDeathListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerDeathListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerDeathListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerDeathListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerJoinListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerJoinListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerQuitListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/PlayerQuitListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/StartArenaListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/StartArenaListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/StartArenaListener$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/StartArenaListener$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/StartArenaListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/StartArenaListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/TeamRespawnListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/TeamRespawnListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/VillagerProtectionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/Listeners/VillagerProtectionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/SettingsLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/SettingsLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/SettingsTeamRespawnLocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/SettingsTeamRespawnLocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/TeamManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/classes/cz/cvut/fel/pjv/stolbajakub/bedwars/TeamManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bedwars/target/original-Bedwars-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bedwars/target/original-Bedwars-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LobbySpravne/src/main/java/cz/cvut/fel/pjv/stolbajakub/BungeeCommunication/BedwarsCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LobbySpravne/src/main/java/cz/cvut/fel/pjv/stolbajakub/bungeecommunication/BedwarsCommunication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LobbySpravne/src/main/java/cz/cvut/fel/pjv/stolbajakub/Lobby.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LobbySpravne/src/main/java/cz/cvut/fel/pjv/stolbajakub/Lobby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBungee/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBungee/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBungee/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBungee/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBungee/src/main/java/cz/cvut/fel/pjv/stolbajakub/mybungee/Listeners/BedInfoListen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBungee/src/main/java/cz/cvut/fel/pjv/stolbajakub/mybungee/listeners/BedInfoListen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBungee/src/main/java/cz/cvut/fel/pjv/stolbajakub/mybungee/Listeners/BungeeEconomyListen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBungee/src/main/java/cz/cvut/fel/pjv/stolbajakub/mybungee/listeners/BungeeEconomyListen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBungee/src/main/java/cz/cvut/fel/pjv/stolbajakub/mybungee/MyBungee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBungee/src/main/java/cz/cvut/fel/pjv/stolbajakub/mybungee/MyBungee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myperms/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Myperms/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myperms/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Myperms/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myperms/src/main/java/cz/cvut/fel/pjv/stolbajakub/myperms/Listeners/PlayerJoinListenerPerms.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Myperms/src/main/java/cz/cvut/fel/pjv/stolbajakub/myperms/listeners/PlayerJoinListenerPerms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myperms/src/main/java/cz/cvut/fel/pjv/stolbajakub/myperms/Listeners/PlayerQuitListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Myperms/src/main/java/cz/cvut/fel/pjv/stolbajakub/myperms/listeners/PlayerQuitListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myperms/src/main/java/cz/cvut/fel/pjv/stolbajakub/myperms/Myperms.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Myperms/src/main/java/cz/cvut/fel/pjv/stolbajakub/myperms/Myperms.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2eNLJLwwbBiYoc3fYUeX8WUprUc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cz.cvut.fel.pjv.stolbajakub.bungeeswitcher" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BungeeSwitcher package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e626f151-326f-475a-82a7-bbddea8e4cf0" name="Changes" comment="" />
+      <created>1711740019622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711740019622</updated>
+      <workItem from="1711740022363" duration="1498000" />
+      <workItem from="1711742188239" duration="3517000" />
+      <workItem from="1711815059008" duration="176000" />
+      <workItem from="1713260072670" duration="197000" />
+      <workItem from="1713474064818" duration="4594000" />
+      <workItem from="1713529624573" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+name: Bedwars
+version: '${project.version}'
+main: cz.cvut.fel.pjv.stolbajakub.bedwars.Bedwars
+api-version: '1.20'
+commands:
+  bw:
+    description: "see documentation"
+    usage: "/bw save/pos1/pos2"
+    aliases:
+    permission: "Bedwars.admin"
+    permission-message: "You do not have permission to use this command"
+#channels: [BungeeCord , "bedwars:tolobbyinfo"]
+depend: [ProtocolLib]

@@ -1,0 +1,7 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çù½üÿÿÿÿ8ºâĞÓî1J$61c153be-d0e2-4f3b-ab26-f55d77006d82
+•	java:S116"SRename this field "MaxPlays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆàØ»8ÔâĞÓî1J$d2abe804-91b3-4000-9130-c3461e4b1423
+‰
+java:S1659"FDeclare "currPlays" and all following declarations on a separate line.(ˆàØ»8ÖâĞÓî1J$987226b5-45ee-4c3c-aac2-695eb41728ea
+”
+java:S1128"LRemove this unused import 'cz.cvut.fel.pjv.stolbajakub.bedwars.TeamManager'.(¢õšÿúÿÿÿÿ8àâĞÓî1J$544590f0-32bc-4849-bb80-9bddfedb7f60

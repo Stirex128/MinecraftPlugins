@@ -1,0 +1,11 @@
+
+˜	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼š”¯ùÿÿÿÿ8î‡ÇÉë1J$73dda068-b8ff-4141-8d3a-6f81593eca26
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€óáùÿÿÿÿ8ô‡ÇÉë1J$ee11bf69-a0c8-4de6-a29c-0e6c708d4710
+
+java:S1874#"7Remove this use of "createInventory"; it is deprecated.(¼š”¯ùÿÿÿÿ8ˆÇÉë1J$711146f1-db05-42b3-a45e-ed9328eb6521
+~
+java:S1874*"6Remove this use of "setDisplayName"; it is deprecated.(›ôÿïùÿÿÿÿ8—ˆÇÉë1J$ffe4b181-22cf-413e-a3d6-0319978d4b79
+‹
+java:S1128"HRemove this unused import 'cz.cvut.fel.pjv.stolbajakub.bedwars.Bedwars'.(Ë£¬®8ÆÑ•ï1J$784a8f4d-4e6f-4047-9518-de3c119546b9
+
+java:S1128">Remove this unused import 'org.bukkit.plugin.java.JavaPlugin'.(ÙÎ†È8ÆÑ•ï1J$a1ec92e2-6a6d-4f9d-97bc-233ab2c6c5bb

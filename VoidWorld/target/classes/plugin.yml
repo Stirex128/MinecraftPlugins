@@ -1,0 +1,5 @@
+name:
+version: '1.0-SNAPSHOT'
+main: cz.cvut.fel.pjv.stolbajakub.Lobby
+api-version: '1.20'
+

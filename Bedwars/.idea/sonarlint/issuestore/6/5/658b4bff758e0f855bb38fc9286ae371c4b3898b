@@ -1,0 +1,5 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€óáùÿÿÿÿ8ß‘Ûòè1J$d3c700f3-6d06-42ea-8d1c-c6db48fd28ed
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–®­Äûÿÿÿÿ8‰’Ûòè1J$8db5e0f3-a9e5-490f-a814-5ae1216143bb
+m
+java:S1128"KRemove this unused import 'org.bukkit.event.inventory.InventoryClickEvent'.(Õæí˜ıÿÿÿÿ8€‰û§ï1

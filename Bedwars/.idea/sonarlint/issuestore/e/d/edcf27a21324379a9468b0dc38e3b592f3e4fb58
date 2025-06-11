@@ -1,0 +1,11 @@
+
+u	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(Èßáğ8Å—ö•ï1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¯ÊØıÿÿÿÿ8Ù—ö•ï1
+T
+java:S1874&"7Remove this use of "createInventory"; it is deprecated.(Áö¢Ú8§˜ö•ï1
+S
+java:S1874;"6Remove this use of "setDisplayName"; it is deprecated.(˜„óÙ8°˜ö•ï1
+Q
+java:S1874B"/Remove this use of "setLore"; it is deprecated.(¼ê¸ûÿÿÿÿ8¹˜ö•ï1
+S
+java:S1874D"1Remove this use of "getByName"; it is deprecated.(•şİ¿şÿÿÿÿ8»˜ö•ï1

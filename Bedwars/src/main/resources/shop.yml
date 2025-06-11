@@ -1,0 +1,13 @@
+items:
+  menu1:
+    name: "Základní nástroje"
+    icon: "WOODEN_PICKAXE"
+  menu2:
+    name: "Obranné předměty"
+    icon: "IRON_CHESTPLATE"
+  menu3:
+    name: "Základní nástroje"
+    icon: "WOODEN_PICKAXE"
+  menu4:
+    name: "Obranné předměty"
+    icon: "IRON_CHESTPLATE"

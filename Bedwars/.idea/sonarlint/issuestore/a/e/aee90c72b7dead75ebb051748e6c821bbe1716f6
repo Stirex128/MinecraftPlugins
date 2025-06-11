@@ -1,0 +1,22 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±è¬Ü8±ñ°´ì1J$64fe2919-88be-4954-9771-324b93aff76a
+a
+java:S1640"Convert this Map to an EnumMap.(œµ„J8´ñ°´ì1J$867482f8-32f9-42e1-ac4b-c5cbf91d22dd
+t
+java:S1874+"1Remove this use of "ChatColor"; it is deprecated.(è…–Ë8úñ°´ì1J$9443b679-1c58-4614-a4ab-ddd42e72a3e8
+t
+java:S1874+"1Remove this use of "ChatColor"; it is deprecated.(è…–Ë8üñ°´ì1J$bc2c5cbc-df64-4ce4-b020-669ed216eca9
+t
+java:S1874+"1Remove this use of "ChatColor"; it is deprecated.(è…–Ë8ıñ°´ì1J$37ccecf4-6d41-4832-93e9-12772de20e6c
+t
+java:S1874+"1Remove this use of "ChatColor"; it is deprecated.(è…–Ë8şñ°´ì1J$0987a04b-6077-4517-b136-c67c3536502c
+
+java:S1874,"7Remove this use of "createInventory"; it is deprecated.(¬§îÎúÿÿÿÿ8ò°´ì1J$6f5cc562-adc2-4a64-a2d2-20e77348a576
+x
+java:S1874C"0Remove this use of "getTitle"; it is deprecated.(ºÔ Ğüÿÿÿÿ8Òª±´ì1J$072cee7a-a217-4e7f-b1d3-99c05cdc3810
+‹
+java:S1128"HRemove this unused import 'cz.cvut.fel.pjv.stolbajakub.bedwars.Bedwars'.(Ë£¬®8Åƒå•ï1J$22a72b53-346b-41b3-aa8c-0367f8f8ec7a
+‡
+java:S1128"?Remove this unused import 'org.bukkit.inventory.meta.ItemMeta'.(³Ëù²üÿÿÿÿ8Åƒå•ï1J$fa8c7d9f-0584-4c4a-bbcb-0b943f14d3d3
+€
+java:S1128"8Remove this unused import 'org.bukkit.Bukkit.getLogger'.(›àÓÔûÿÿÿÿ8Æƒå•ï1J$7ba75ba5-3582-46be-8f21-8156c1881bb7

@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±è¬Ü8»’Ëë1J$58e808d0-ee4f-43e1-aa07-009f4c6c0ae3
+x
+java:S1874"0Remove this use of "getTitle"; it is deprecated.(×£î³ùÿÿÿÿ8Ï’Ëë1J$d65b9a23-16d7-41c5-9b00-5f22df808c18
+t
+java:S1874!"1Remove this use of "ChatColor"; it is deprecated.(ËÓ©8Ñ’Ëë1J$434d115c-545f-44cb-bef6-0dcbf96ef136
+y
+java:S1874!"6Remove this use of "getDisplayName"; it is deprecated.(ËÓ©8Ñ’Ëë1J$23e0ef3f-3a47-4462-8baa-b3fff1352385

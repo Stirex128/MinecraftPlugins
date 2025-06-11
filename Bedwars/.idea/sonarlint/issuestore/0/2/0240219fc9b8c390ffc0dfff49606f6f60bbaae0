@@ -1,0 +1,20 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€óáùÿÿÿÿ8ÕÃó—ï1J$1d5018d1-f16e-4c4e-83e0-812640748423
+~
+java:S1874e"6Remove this use of "setDisplayName"; it is deprecated.(¢çà°ùÿÿÿÿ8¶Äó—ï1J$916fef77-e61c-4dcb-a4fd-8e97869a6046
+y
+java:S1874e"1Remove this use of "ChatColor"; it is deprecated.(¢çà°ùÿÿÿÿ8¶Äó—ï1J$708262e5-4e1c-42ed-914d-6e39afb2a6dc
+y
+java:S1874e"1Remove this use of "ChatColor"; it is deprecated.(¢çà°ùÿÿÿÿ8¶Äó—ï1J$006c1333-8ba2-432c-bd17-7c4589e31037
+y
+java:S1874e"1Remove this use of "ChatColor"; it is deprecated.(¢çà°ùÿÿÿÿ8¶Äó—ï1J$03a82728-bfac-4c22-bbcc-005d8b73fad0
+y
+java:S1874e"1Remove this use of "ChatColor"; it is deprecated.(¢çà°ùÿÿÿÿ8¶Äó—ï1J$739a8d44-5f5d-4488-983f-b6bb42d454ea
+u
+java:S1874m"2Remove this use of "hidePlayer"; it is deprecated.(©°¨‚8¸Äó—ï1J$f5f4083f-2e1b-4dd5-b66c-cb971afca1c1
+‹
+java:S1128"HRemove this unused import 'cz.cvut.fel.pjv.stolbajakub.bedwars.Bedwars'.(Ë£¬®8¾Äó—ï1J$ad3c1f40-d42b-4bf3-8654-30d28a24b3c3
+ˆ
+java:S1128"ERemove this unused import 'org.bukkit.event.entity.PlayerDeathEvent'.(ÎšÄé8¿Äó—ï1J$d9311164-18c3-4c57-9ef6-431ffd573dc2
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¿Äó—ï1J$757332e9-1ac8-411d-8dc7-77898ef0c341

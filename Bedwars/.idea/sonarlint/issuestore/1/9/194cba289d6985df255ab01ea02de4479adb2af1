@@ -1,0 +1,26 @@
+
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ―ΚΨύÿÿÿÿ8Ϋ³²ξ1J$d5b9dc94-dfef-4cc4-a997-9bf01880019f
+t
+java:S1874"1Remove this use of "ChatColor"; it is deprecated.(Ύªπΐ8ΟΫ³²ξ1J$59a42aff-e12d-4101-908c-f43f61b389a6
+~
+java:S1874"6Remove this use of "setDisplayName"; it is deprecated.(ΏτΉώϋÿÿÿÿ8μΫ³²ξ1J$5b6a3b63-cf9d-4b6c-ba5a-8112314f02eb
+w
+java:S1874"/Remove this use of "setLore"; it is deprecated.(«ζ°µύÿÿÿÿ8μΫ³²ξ1J$2fc98d79-bbad-44f0-a816-a1ae9b44dfcd
+t
+java:S1874'"1Remove this use of "ChatColor"; it is deprecated.(Ρυν8ρΫ³²ξ1J$42dec3bd-8cb8-4476-8a4c-c66104f99a0e
+t
+java:S1874'"1Remove this use of "ChatColor"; it is deprecated.(Ρυν8ρΫ³²ξ1J$17ba68cd-b4d2-4694-a584-9b083ce7d92a
+y
+java:S1874("1Remove this use of "ChatColor"; it is deprecated.(Òρύÿÿÿÿ8ρΫ³²ξ1J$e6646ad0-5885-40a4-8fbe-b3e2c154350b
+y
+java:S1874("1Remove this use of "ChatColor"; it is deprecated.(Òρύÿÿÿÿ8ρΫ³²ξ1J$2c51b518-3830-4392-badd-0881ea9c3677
+t
+java:S1874)"1Remove this use of "ChatColor"; it is deprecated.(ΥÿµÒ8ςΫ³²ξ1J$f16fb28d-34cc-4a21-99dc-7abe8f11b524
+t
+java:S1874)"1Remove this use of "ChatColor"; it is deprecated.(ΥÿµÒ8ςΫ³²ξ1J$097bd89b-149f-4259-8ad3-d3fe1dba7436
+s
+java:S1874*"1Remove this use of "ChatColor"; it is deprecated.(Φιi8ςΫ³²ξ1J$8775bbbf-96f6-4ab2-95c4-eca21281dca1
+s
+java:S1874*"1Remove this use of "ChatColor"; it is deprecated.(Φιi8ςΫ³²ξ1J$ec676221-21ce-4fa0-8147-7ab1d8fe1a70
+e
+java:S1128"HRemove this unused import 'cz.cvut.fel.pjv.stolbajakub.bedwars.Bedwars'.(Λ£¬®8Ρύ•ο1

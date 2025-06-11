@@ -1,0 +1,63 @@
+Bedwars:
+  NumOfArena: 1
+  WorldName: "world"
+  MaxInTeam: 3
+  MinForStart: 2
+  ArenaName: "Testovaci"
+  MaxPlayers: 12
+  IsRewards: true
+  RewardOnStart: 10
+  RewardOnWin: 100
+  MaxArenaDuration: 100
+  Droppers:
+    dropper1:
+      item: "GOLD_INGOT"
+      amount: 3
+      x: -366.0
+      y: 78.0
+      z: 388.0
+    dropper2:
+      item: "IRON_INGOT"
+      amount: 10
+      x: -360.0
+      y: 78.0
+      z: 388.0
+    dropper3:
+      item: "DIAMOND"
+      amount: 1
+      x: -370.0
+      y: 78.0
+      z: 388.0
+  TeamBlueRespawn:
+    x: -366
+    y: 80
+    z: 376
+  TeamRedRespawn:
+    x: 0
+    y: 0
+    z: 0
+  TeamGreenRespawn:
+    x: 0
+    y: 0
+    z: 0
+  TeamYellowRespawn:
+    x: 0
+    y: 0
+    z: 0
+  Spawn:
+    x: -366
+    y: 80
+    z: 376
+  Villagers:
+    Villager1:
+      Name: "Obchod 1"
+      x: -366
+      y: 80
+      z: 378
+    Villager2:
+      Name: "Obchod 2"
+      x: -368
+      y: 80
+      z: 376
+
+

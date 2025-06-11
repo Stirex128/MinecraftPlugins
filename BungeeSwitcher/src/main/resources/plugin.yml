@@ -1,0 +1,11 @@
+name: BungeeSwitcher
+version: '${project.version}'
+main: cz.cvut.fel.pjv.stolbajakub.bungeeswitcher.BungeeSwitcher
+api-version: '1.20'
+commands:
+  switch:
+    description: "switch between Bungee servers"
+    usage: "/switch server (player)"
+    aliases:
+    permission: "BungeeSwitcher.switch"
+    permission-message: "You do not have permission to use this command"

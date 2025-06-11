@@ -1,0 +1,38 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€óáùÿÿÿÿ8ª±ìÁé1J$8731edba-1225-4a3b-a305-ece8213ac995
+y
+java:S1874"1Remove this use of "ChatColor"; it is deprecated.(¾ÎÌøÿÿÿÿ8ä±ìÁé1J$aafa0ff5-d7ae-4de7-9aed-d0f09beabc37
+y
+java:S1874"1Remove this use of "ChatColor"; it is deprecated.(¾ÎÌøÿÿÿÿ8å±ìÁé1J$acb9f631-cabf-4e1d-9a93-ecc2cfd8f075
+t
+java:S1874@"1Remove this use of "ChatColor"; it is deprecated.(Èï×ä8ì±ìÁé1J$cee0de03-f9a0-49cf-b9e7-54dd64a212fe
+€
+java:S1874A"8Remove this use of "broadcastMessage"; it is deprecated.(¤Û¹·şÿÿÿÿ8ë±ìÁé1J$57d763a4-e797-4c18-aaa7-e2be596764ee
+y
+java:S1874C"1Remove this use of "ChatColor"; it is deprecated.(»ó°şÿÿÿÿ8ì±ìÁé1J$89b5e41e-8cc3-498b-9d0a-05d49dd61d04
+s
+java:S1874F"1Remove this use of "ChatColor"; it is deprecated.(«ÜÚ8ì±ìÁé1J$f5f7c9a3-adef-44dc-b973-3403e0debe37
+s
+java:S1874F"1Remove this use of "ChatColor"; it is deprecated.(«ÜÚ8ì±ìÁé1J$d24f50dd-eb69-465f-97ed-1d405a35723b
+t
+java:S1874H"1Remove this use of "ChatColor"; it is deprecated.(“³¦·8ì±ìÁé1J$a9825a60-b31e-4aa9-87bd-c25a942812bb
+t
+java:S1874H"1Remove this use of "ChatColor"; it is deprecated.(“³¦·8ì±ìÁé1J$f60dbed0-e047-4e47-832d-4efa762ef863
+y
+java:S1874J"1Remove this use of "ChatColor"; it is deprecated.(ãô÷¤úÿÿÿÿ8ì±ìÁé1J$d82a6f25-5ecf-40c0-a19a-bb15d1d623ac
+y
+java:S1874J"1Remove this use of "ChatColor"; it is deprecated.(ãô÷¤úÿÿÿÿ8ì±ìÁé1J$1a0a4766-f9ff-4021-8053-37d1d9dfd8fa
+t
+java:S1874L"1Remove this use of "ChatColor"; it is deprecated.(µ„¸Ë8ì±ìÁé1J$681e09ac-a0b1-411d-8ba2-b20ebc2e74ae
+t
+java:S1874L"1Remove this use of "ChatColor"; it is deprecated.(µ„¸Ë8ì±ìÁé1J$766bb160-5a5f-4e1d-ad51-97c687c1cd35
+y
+java:S1874N"1Remove this use of "ChatColor"; it is deprecated.(”Š­¡şÿÿÿÿ8ì±ìÁé1J$3addf8e8-ca72-4dbd-a59b-6f60954d7c08
+y
+java:S1874N"1Remove this use of "ChatColor"; it is deprecated.(”Š­¡şÿÿÿÿ8 íÁé1J$1108f3ec-a73c-485e-a075-e1aa36a9a85c
+‹
+java:S1128"HRemove this unused import 'cz.cvut.fel.pjv.stolbajakub.bedwars.Bedwars'.(Ë£¬®8¯ŠÁ²î1J$c55595d7-9ae4-4df8-9800-60bed99accc4
+v
+java:S1128"3Remove this unused import 'org.bukkit.block.Block'.(è–’8°ŠÁ²î1J$d03c577f-917f-4c74-bad4-422fb6864f50
+ƒ
+java:S1128";Remove this unused import 'org.bukkit.inventory.ItemStack'.(‰‚ö½ùÿÿÿÿ8±ŠÁ²î1J$34210920-9e9a-4b57-ba54-802d7555275e

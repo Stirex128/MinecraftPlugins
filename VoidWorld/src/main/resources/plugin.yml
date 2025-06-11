@@ -1,0 +1,5 @@
+name:
+version: '${project.version}'
+main: cz.cvut.fel.pjv.stolbajakub.Lobby
+api-version: '1.20'
+

@@ -1,0 +1,95 @@
+
+i
+java:S1170"!Make this final field static too.(¢Ìú¼úÿÿÿÿ8Ê¬ïÛï1J$aad2058c-fc15-4253-ad43-974170585fa1
+d
+java:S1170"!Make this final field static too.(Ô¥©8Ë¬ïÛï1J$068a4565-e92c-4976-8bb0-791b284b2ad1
+d
+java:S1170 "!Make this final field static too.(•¸şß8Ë¬ïÛï1J$a34e5a95-18bd-4eb7-94dc-f77ed49a47c1
+d
+java:S1170!"!Make this final field static too.(—„¸Ä8Ë¬ïÛï1J$dee74140-5c2a-487c-9212-6783cce0e1de
+i
+java:S1170""!Make this final field static too.(ö™Óœıÿÿÿÿ8Ë¬ïÛï1J$0a7687db-e933-42dd-89fe-4e8638a84534
+i
+java:S1170#"!Make this final field static too.(¼ôıÿÿÿÿ8Ì¬ïÛï1J$71a63504-a9aa-45a4-bc2a-91914bb41e05
+i
+java:S1170$"!Make this final field static too.(Ü”·“ùÿÿÿÿ8Ì¬ïÛï1J$e7c5c1ba-bbf1-4df5-99c3-38abd4b59af2
+i
+java:S1170%"!Make this final field static too.(ŞÌ™şÿÿÿÿ8Ì¬ïÛï1J$7878540a-cdac-483d-9a3c-006f41db963b
+á
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(“ÛÌ×úÿÿÿÿ8Ş¬ïÛï1J$cdf9a677-4fcd-44f7-816c-89a68fef9844
+y
+java:S1874""1Remove this use of "ChatColor"; it is deprecated.(ö™Óœıÿÿÿÿ8è¬ïÛï1J$d198919d-54b0-4411-b7cb-63f2912f2f18
+y
+java:S1874""1Remove this use of "ChatColor"; it is deprecated.(ö™Óœıÿÿÿÿ8é¬ïÛï1J$f4b6a128-f104-4ff9-8f04-c3d1d6a3127d
+y
+java:S1874""1Remove this use of "ChatColor"; it is deprecated.(ö™Óœıÿÿÿÿ8é¬ïÛï1J$4162a526-7f85-444a-9810-b9407f14a16c
+y
+java:S1874#"1Remove this use of "ChatColor"; it is deprecated.(¼ôıÿÿÿÿ8é¬ïÛï1J$b1f04856-7b34-4219-9b89-0960bc51c521
+y
+java:S1874#"1Remove this use of "ChatColor"; it is deprecated.(¼ôıÿÿÿÿ8é¬ïÛï1J$7580b963-13b7-4596-81bc-84625f7082f5
+y
+java:S1874#"1Remove this use of "ChatColor"; it is deprecated.(¼ôıÿÿÿÿ8é¬ïÛï1J$e11e438a-767f-496e-800b-e70772aaa043
+y
+java:S1874$"1Remove this use of "ChatColor"; it is deprecated.(Ü”·“ùÿÿÿÿ8é¬ïÛï1J$b4894e7d-a31e-4dd1-b4c4-4636da97d01c
+y
+java:S1874$"1Remove this use of "ChatColor"; it is deprecated.(Ü”·“ùÿÿÿÿ8é¬ïÛï1J$1a236c14-8580-4083-88d4-580b2152d5e7
+y
+java:S1874$"1Remove this use of "ChatColor"; it is deprecated.(Ü”·“ùÿÿÿÿ8ê¬ïÛï1J$76c0db74-f7b7-4170-972d-3f1a0fc2788a
+y
+java:S1874%"1Remove this use of "ChatColor"; it is deprecated.(ŞÌ™şÿÿÿÿ8ê¬ïÛï1J$b355c3a1-9595-4add-8e3c-da7564580bca
+y
+java:S1874%"1Remove this use of "ChatColor"; it is deprecated.(ŞÌ™şÿÿÿÿ8ê¬ïÛï1J$f33379e8-e8fa-4a23-b19d-e0720802bdb6
+y
+java:S1874%"1Remove this use of "ChatColor"; it is deprecated.(ŞÌ™şÿÿÿÿ8ê¬ïÛï1J$123fc198-bf98-46e1-806b-3a51016789a9
+t
+java:S1874;"1Remove this use of "ChatColor"; it is deprecated.(üÔšŸ8‰­ïÛï1J$c7baa0d0-381c-4953-8695-20171238bd4f
+t
+java:S1874;"1Remove this use of "ChatColor"; it is deprecated.(üÔšŸ8Š­ïÛï1J$f4f10bf9-2b38-44ac-8eb1-dfff84278a18
+y
+java:S1874<"1Remove this use of "ChatColor"; it is deprecated.(„»áÀûÿÿÿÿ8Œ­ïÛï1J$2022842b-f0f2-4453-90ba-992486f163c0
+y
+java:S1874<"1Remove this use of "ChatColor"; it is deprecated.(„»áÀûÿÿÿÿ8Œ­ïÛï1J$93ccea5e-2b17-40ed-95c2-866f2a55162d
+y
+java:S1874="1Remove this use of "ChatColor"; it is deprecated.(Æ²Æ¸ıÿÿÿÿ8Œ­ïÛï1J$a27ef0e7-103e-4e23-bb28-8cb4a9f49958
+y
+java:S1874="1Remove this use of "ChatColor"; it is deprecated.(Æ²Æ¸ıÿÿÿÿ8­ïÛï1J$fc79727e-3203-4a9b-83e1-58c579d06529
+y
+java:S1874>"1Remove this use of "ChatColor"; it is deprecated.(©±•ˆÿÿÿÿÿ8­ïÛï1J$65c928f1-2922-43d2-9f12-0afa6ab4ae98
+y
+java:S1874>"1Remove this use of "ChatColor"; it is deprecated.(©±•ˆÿÿÿÿÿ8­ïÛï1J$9225078f-b49d-4de9-aff6-9dd7bc498ede
+y
+java:S1874F"1Remove this use of "ChatColor"; it is deprecated.(£‹òüÿÿÿÿ8‘­ïÛï1J$6d19392d-7b55-4b79-ba8b-49fce948810e
+t
+java:S1874H"1Remove this use of "setPrefix"; it is deprecated.(÷æ¼8‘­ïÛï1J$90a2a3ab-3d84-4562-814b-8db2af9cb923
+y
+java:S1874J"6Remove this use of "setDisplayName"; it is deprecated.(§õÒõ8’­ïÛï1J$b0d9e7b7-9193-40e2-97e1-962472516e31
+t
+java:S1874Z"1Remove this use of "ChatColor"; it is deprecated.(ÀÕ°›8­ïÛï1J$5b037d11-7177-422e-8a5f-6796d73e40c8
+t
+java:S1874^"1Remove this use of "setPrefix"; it is deprecated.(÷æ¼8Ÿ­ïÛï1J$d0d69f85-ca73-491e-8438-06981e21338a
+r
+java:S1874f"0Remove this use of "setColor"; it is deprecated.(àí&8¡­ïÛï1J$1069cd9f-209c-436f-bee3-27736b072cea
+z
+java:S1874ã"1Remove this use of "ChatColor"; it is deprecated.(‹Å½‚úÿÿÿÿ8°­ïÛï1J$e260e39c-0013-4c74-8802-d6fde3e6ad6e
+…
+java:S1874‘"<Remove this use of "registerNewObjective"; it is deprecated.(“óëªşÿÿÿÿ8¶­ïÛï1J$f8d7205f-4fba-4976-9c23-7d77c032ecd4
+
+java:S1874•"6Remove this use of "setDisplayName"; it is deprecated.(ô¬³»ûÿÿÿÿ8·­ïÛï1J$13f00842-16b2-41bc-8acb-62e3f982ea54
+u
+java:S1874©"1Remove this use of "ChatColor"; it is deprecated.(ô‘€8¹­ïÛï1J$6648e80f-ca35-4fdc-a20d-885f6d8ff42e
+u
+java:S1874©"1Remove this use of "ChatColor"; it is deprecated.(ô‘€8¹­ïÛï1J$f88d54cf-eb4e-4b95-9090-8be8b403f0e1
+u
+java:S1874©"1Remove this use of "ChatColor"; it is deprecated.(ô‘€8¹­ïÛï1J$9c482b52-a0ff-47cc-8894-39c7022507d4
+u
+java:S1874©"1Remove this use of "ChatColor"; it is deprecated.(ô‘€8¹­ïÛï1J$63e1f638-27a1-4ccd-8167-0d02f1ad83c6
+
+java:S1128">Remove this unused import 'com.comphenix.protocol.PacketType'.(˜Àè8¨ïğÛï1J$8b47dda1-0c7e-43a8-8e87-bc569a48b90b
+‹
+java:S1128"CRemove this unused import 'com.comphenix.protocol.ProtocolLibrary'.(ğë‘Ôıÿÿÿÿ8¨ïğÛï1J$0df1c0ee-e527-401b-92f1-6c2ddc45f329
+‹
+java:S1128"CRemove this unused import 'com.comphenix.protocol.ProtocolManager'.(ÉØ©‹ıÿÿÿÿ8¨ïğÛï1J$7531a4d0-8c20-4cf3-bb57-fa20fbf8f7b4
+
+java:S1128"JRemove this unused import 'com.comphenix.protocol.events.PacketContainer'.(ÜïÜê8©ïğÛï1J$48788475-c9b2-4486-a437-fd80486dcd81
+
+java:S1128"<Remove this unused import 'com.comphenix.protocol.wrappers'.(Ü‡â×8©ïğÛï1J$2a0ae09c-7f25-4768-bd28-a9195b01d8de

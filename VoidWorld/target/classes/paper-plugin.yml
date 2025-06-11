@@ -1,0 +1,4 @@
+name: VoidWorld
+version: '1.0-SNAPSHOT'
+main: cz.cvut.fel.pjv.stolbajakub.voidworld.VoidWorld
+api-version: '1.20'

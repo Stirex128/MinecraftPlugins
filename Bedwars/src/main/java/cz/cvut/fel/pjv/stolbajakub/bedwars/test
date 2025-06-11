@@ -1,0 +1,51 @@
+
+    private BossBar bar;
+    private BukkitRunnable countdownTask;
+
+    public void createCountdownBar(Player player, String title, int seconds) {
+        // Tady můžete přidat další kontrolu, jestli už bar není vytvořen
+        if (bar != null) {
+            bar.removeAll();
+            bar = null;
+        }
+        bar = player.getServer().createBossBar(title, BarColor.BLUE, BarStyle.SOLID);
+        bar.addPlayer(player);
+        bar.setVisible(true);
+
+        if (countdownTask != null && !countdownTask.isCancelled()) {
+            countdownTask.cancel();
+        }
+
+        countdownTask = new BukkitRunnable() {
+            int remainingSeconds = seconds;
+
+            @Override
+            public void run() {
+                if (bar == null) {
+                    this.cancel();
+                    return;
+                }
+                bar.setProgress((double) remainingSeconds / seconds);
+                bar.setTitle(title + ": " + remainingSeconds + " sekund do konce");
+
+                remainingSeconds--;
+
+                if (remainingSeconds < 0) {
+                    endTasks();
+                    this.cancel();
+                }
+            }
+        };
+        countdownTask.runTaskTimer(Bedwars.getInstance(), 0L, 20L);
+    }
+
+    public void cancelCountdown() {
+        if (countdownTask != null && !countdownTask.isCancelled()) {
+            countdownTask.cancel();
+        }
+        if (bar != null) {
+            bar.setVisible(false);
+            bar.removeAll();
+            bar = null;
+        }
+    }

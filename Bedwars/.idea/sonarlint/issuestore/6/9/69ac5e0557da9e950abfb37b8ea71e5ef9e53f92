@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¯ÊØıÿÿÿÿ8ùïÏë1J$e3426c81-7e65-4f56-8478-b55882a4d330
+x
+java:S1874""0Remove this use of "getTitle"; it is deprecated.(×£î³ùÿÿÿÿ8Ê×¡Ïë1J$73e9cb76-be55-41b7-9ae2-94be35ea2a34
+r
+java:S1874-"/Remove this use of "getLore"; it is deprecated.(±ó³Ö8Ì×¡Ïë1J$7110124a-2d7a-48e1-97de-419e59c47d0e
+r
+java:S1874B"/Remove this use of "setLore"; it is deprecated.(ßŠş‚8ä›¢Ïë1J$3e3a1118-2add-4db8-8990-393b5768fa13
+y
+java:S1874G"1Remove this use of "ChatColor"; it is deprecated.(Éê…¢øÿÿÿÿ8Ñ×¡Ïë1J$31f81b3a-0920-4f9a-8b14-97d18d1158ba
+y
+java:S1874G"1Remove this use of "ChatColor"; it is deprecated.(Éê…¢øÿÿÿÿ8ëÌ¢Ïë1J$18638d84-8d6c-4f86-a896-49d014cb97c7
+y
+java:S1874I"1Remove this use of "ChatColor"; it is deprecated.(ÎÿÙüúÿÿÿÿ8Ò×¡Ïë1J$89fda8ef-bbd9-4137-a4f1-302f27be43cc
+y
+java:S1874I"1Remove this use of "ChatColor"; it is deprecated.(ÎÿÙüúÿÿÿÿ8ìÌ¢Ïë1J$e4ca935f-1f36-48c6-9129-39a620294fbc

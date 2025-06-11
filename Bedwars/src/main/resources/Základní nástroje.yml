@@ -1,0 +1,34 @@
+items:
+  item1:
+    item: "IRON_PICKAXE"
+    name: "qwe"
+    lore: "nice"
+    enchantment: "DAMAGE_ALL"
+    lvlOfEnchant: 5
+    price: 5
+    currency: "IRON_INGOT"
+    amount: 13
+    team: "Tým Červený"
+  item2:
+    item: "IRON_PICKAXE"
+    name: "megaPickaxe"
+    lore: "nice"
+    enchantment: "DAMAGE_ALL"
+    lvlOfEnchant: 5
+    price: 5
+    currency: "IRON_INGOT"
+    amount: 13
+    team: "Tým Zelení"
+  item3:
+    item: "IRON_PICKAXE"
+    name: "asd"
+    lore: "nice"
+    enchantment: "DAMAGE_ALL"
+    lvlOfEnchant: 5
+    price: 5
+    currency: "IRON_INGOT"
+    amount: 13
+    team: "None"
+
+
+
