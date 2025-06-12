@@ -1,74 +1,122 @@
 Set of plugins for Minecraft which lets you make a lobby server, bungee server and bedwars minigame. docs in czech below
 
-Uživatelská dokumentace
-Jak zprovoznit minecraft server:
+# README.md
 
+## Jak zprovoznit Minecraft server
 
-Plugin lobby
-Popis:
-Plugin slouží ke správě lobby. Obsahuje několik prvků:
-menu na přepínání serverů, zapínání různých kosmetických prvků
-ochranu před zničením lobby
-nastavení místa, kam se lidé připojí, když se připojí na server a jde se na něj teleportovat
+Tento dokument popisuje postup a konfiguraci pro spuštění Minecraft serveru s několika pluginy.
 
-Práva:
-lobby.spawn.set
-lobby.not.spawn.on.spawn
-lobby.edit.inventory
-lobby.break.block
-lobby.place.block
+---
 
-Příkazy
-/spawn - teleportuje hráče na dané souřadnice
-/spawn set x y z - nastaví spawn na dané souřadnic
-/myperms add/rem/check player permission -přidá/odebere/zobrazí specifikovanou permission
-/myperms disable/enable - vypne nebo zapne vnímání pluginu na práva
+## Plugin: Lobby
 
-Yml files - nacházejí se ve stejnojmenné složce ve složce plugins
-Spawn jde nastavit i ve složce stejnojmenné jako plugin v souboru settings.yml kde se za x y z dosadí čísla (souřadnice spawnu)
+### Popis
 
-Plugin Bedwars
-Popis:
-Minihra ve které jde zničit druhému týmu postele a chránit svojí. V této variantě jsou 4 týmy a to v barvách modrá, červená, zelená a žlutá.
+Plugin slouží ke správě lobby. Obsahuje následující funkce:
 
-Práva:
-Bedwars.admin - pro správu a vytváření arén.
+* Menu pro přepínání serverů a kosmetické funkce
+* Ochrana před zničením lobby světa
+* Nastavení výchozího místa připojení ("spawn")
 
+### Práva
 
-Příkazy:
-/bw pos1/pos2/save uloží jeden roh arény/druhý roh/poté uloží celou arénu
+* `lobby.spawn.set` — nastavení spawnu
+* `lobby.not.spawn.on.spawn` — ignorování teleportace na spawn
+* `lobby.edit.inventory` — úprava inventáře
+* `lobby.break.block` — možnost ničit bloky
+* `lobby.place.block` — možnost pokládat bloky
 
-Použití:
-V settings.yml si nastavíte veškeré údaje, které potřebujete(druhy nastavení najdete v modelovém yml souboru). Pozor vše zapisujte do kolonky Bedwars jak je naznačeno v ukázkovém souboru. Povinná nastavení jsou  ty v jedné úrovni po Bedwars a u spawnů i ty souřadnicové. Je potřeba dodržovat typ hodnot, pokud např string přepíšete na číslo plugin nebude správně fungovat.
-	Dále si uložíte arénu pomocí příkazu(nezapomeňte přidat postele) a nastavíte věci v obchodech. To funguje tak, ze do shop. yml nastavíte na pozici nabe jmeno dalsich yml s podobchody, které se budou pri kliknuti na danym item otevírat. Poté si vytvoříte nový yml file s názvem podobchodu ve kterém budete mít strukturu jako je v ukázkovém podobchodu.Dobré je vědět, že itemy z dropperů si můžete měnit jak chcete a tak i měny v obchodech a to vše v settings nebo shop souborech.
-	Nyní zrestartujte a vaše hra je připravena na lidi.
+### Příkazy
 
-Plugin MyPerms
-Popis: Plugin, který umožňuje hráčům přidávat určitá práva. Plugin funguje lokálně.
+* `/spawn` — teleportace na spawn
+* `/spawn set x y z` — nastavení spawnu
+* `/myperms add/rem/check player permission` — správa práv
+* `/myperms disable/enable` — zapnutí/vypnutí vnímání práv pluginem
 
-Práva:
-myperms.set.perms - prvně si toto oprávnění nastavte v OP a poté už budete moci spravovat práva bez OP. Umožňuje celkový přístup k pluginu
+### Konfigurace (YML)
 
-Příkazy:
-/myperms add/rem/check player permission (true/false) -přidá/odebere/zobrazí specifikovanou v závorce nepovinné
+V souboru `settings.yml` ve složce pluginu můžete nastavit spawn pomocí klíčů `x`, `y`, `z`.
 
-yml files:
-Vznikne permissions.yml kam se ukládájí hráči a jejich oprávnění.
+---
 
+## Plugin: Bedwars
 
-Plugin BungeeSwitch
-Popis: plugin přidá jeden příkaz na měnění serverů
+### Popis
 
-Práva:
-BungeeSwitcher.switch
+Minihra, kde cílem je zničit postel nepřátelského týmu a chránit svou. K dispozici jsou 4 týmy (modrá, červená, zelená, žlutá).
 
+### Práva
 
-Plugin VoidWorld
-Popis: Plugin generující prázdné světy(do bukkit.yml musíte dát
+* `Bedwars.admin` — správa a tvorba arén
+
+### Příkazy
+
+* `/bw pos1` — nastavení prvního rohu arény
+* `/bw pos2` — nastavení druhého rohu arény
+* `/bw save` — uložení arény
+
+### Použití
+
+* Nastavení provádějte v `settings.yml`, všechny položky musí být ve větvi `Bedwars`
+* Spawn body a jejich souřadnice jsou povinné
+* Obchody nastavujte v `shop.yml` – určujete položky a odkazy na další YAML soubory podobchodů
+* Valuty a itemy lze přizpůsobit podle potřeby
+* Po uložení arény a nastavení konfigurace restartujte server
+
+---
+
+## Plugin: MyPerms
+
+### Popis
+
+Plugin slouží k lokální správě oprávnění hráčů.
+
+### Práva
+
+* `myperms.set.perms` — nutné pro správu oprávnění bez OP
+
+### Příkazy
+
+* `/myperms add/rem/check player permission (true/false)` — správa práv hráčů
+
+### Konfigurace (YML)
+
+* Oprávnění hráčů se ukládají do souboru `permissions.yml`
+
+---
+
+## Plugin: BungeeSwitch
+
+### Popis
+
+Plugin umožňuje přepínání mezi servery pomocí jednoho příkazu.
+
+### Práva
+
+* `BungeeSwitcher.switch`
+
+---
+
+## Plugin: VoidWorld
+
+### Popis
+
+Plugin generuje prázdné světy.
+
+### Konfigurace
+
+Pro správnou funkčnost je potřeba upravit `bukkit.yml`:
+
+```yaml
 worlds:
-    jmenosveta:
-       Generator: VoidWorld
-pro správnou funkčnost)
+  jmenosveta:
+    generator: VoidWorld
+```
 
-Práva nejsou
+### Práva
 
+* Žádná specifická práva nejsou potřeba
+
+---
+
+> Poznámka: Všechny pluginy by měly být umístěny ve složce `plugins/`. Konfigurační soubory se obvykle nachází ve složkách se stejným názvem jako plugin.
